@@ -1,0 +1,5 @@
+venv
+.idea
+/output.pdf
+/main.py
+/topics.csv
